@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AndellaChallenges/ageGroup&apos; to &apos;ageGroup.py&apos;" description="Rename resource &apos;ageGroup&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ageGroup" name="ageGroup.py" stamp="1550592276024" updateReferences="true"/>
+</session>

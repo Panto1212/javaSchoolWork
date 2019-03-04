@@ -1,0 +1,21 @@
+package coursework2;
+import java.util.Scanner;
+
+public class Cars {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan = new Scanner(System.in);
+		int cp= scan.nextInt();
+		
+		int pft, sp;
+		
+		pft = (cp*20)/100;
+		sp= cp+pft;
+		
+		System.out.println("Profit: "+pft+"\nSelling Price: "+sp);
+		
+		scan.close();
+	}
+
+}

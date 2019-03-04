@@ -1,0 +1,12 @@
+print("Enter an integer")
+x= int(input())
+
+print(x)
+
+y= x*x
+
+print(y)
+
+square = dict(x=y)
+
+print(square)

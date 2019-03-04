@@ -1,0 +1,15 @@
+package name;
+
+public class Sentences {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Whether we're fighting climate change");
+System.out.println("\tor going to space, everything is moved \nforward by");
+System.out.println("\t\t\\computers\\");
+System.out.println("\t\tand we don't have enough people\nwho can code");
+System.out.println("\t*  \t  *  \t  *  \t  *  ");
+System.out.println("\tTeaching young people to code early on can\nhelp build\n\tskills and the confidence and energize\nthe classroom with learning-by-doing opportunities");
+	}
+
+}

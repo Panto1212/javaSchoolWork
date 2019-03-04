@@ -1,0 +1,16 @@
+package stacks;
+import java.util.*;
+
+public class Reverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		Stack<String> rev= new Stack();
+		
+		rev.push("Yielding Janet 87");
+System.out.println(rev.pop());
+System.out.println(rev.pop());
+	}
+
+}

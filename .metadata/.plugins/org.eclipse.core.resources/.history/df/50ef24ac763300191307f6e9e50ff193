@@ -1,0 +1,20 @@
+package exercises;
+
+import java.util.Scanner;
+
+public class FailPass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     Scanner scan = new Scanner(System.in);
+     double mark= scan.nextDouble();
+     
+     if (mark>60) {
+    	 System.out.println("You have passed the exam!");
+     }
+     else {
+    	 System.out.println("You have failed!");
+     }
+	}
+
+}

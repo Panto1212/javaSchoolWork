@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/home/panto1212/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+2766134696.index
+2302443256.index
+434591551.index
+1740043378.index
+2710549243.index
+3927879410.index

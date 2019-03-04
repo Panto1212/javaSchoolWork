@@ -1,0 +1,66 @@
+package coursework2;
+import java.util.Scanner;
+
+public class Cars {
+
+	public static void main(String[] args) {
+	/*	// TODO Auto-generated method stub
+		System.out.print("Enter the cost price: ");
+		Scanner scan = new Scanner(System.in);
+		double cp= scan.nextInt();
+		
+		double pft, sp;
+		
+		pft = cp*0.2;
+		sp= cp+pft;
+		
+		System.out.println("\nProfit: "+(int)pft+"\nSelling Price: "+(int)sp);
+		
+		scan.close();
+		*/
+		int p;
+		p = 20/2 + 50*100;
+		
+		System.out.print(p);
+	}
+	
+	
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

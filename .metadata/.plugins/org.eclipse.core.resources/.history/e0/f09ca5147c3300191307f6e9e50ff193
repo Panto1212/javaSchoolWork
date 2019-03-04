@@ -1,0 +1,33 @@
+package exercises;
+
+public class Loops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//display all the integers from 140 to 161.
+		
+		for (int i=140; i<=161; i++) {
+			System.out.println(i);
+		}
+		
+		//display all even numbers between 39 and 65.
+		int i=39;
+		while(i<=65) {
+			if(i%2==0) {
+				System.out.println(i);
+			}
+			i++;
+		}
+		
+		//displays all odd numbers between 14 and 45.
+		
+		i=14;
+		do {
+			if(i%2!=0) {
+				System.out.println(i);
+			}
+			
+		}while(i<=45);
+	}
+
+}

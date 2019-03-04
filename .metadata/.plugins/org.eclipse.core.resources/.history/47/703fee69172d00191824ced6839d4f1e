@@ -1,0 +1,12 @@
+package name;
+
+public class Sentences {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Whether we're fighting climate change");
+System.out.println("\t or going to space, everything is moved \nforward by");
+
+	}
+
+}

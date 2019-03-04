@@ -1,0 +1,27 @@
+package coursework2;
+import java.util.Scanner;
+
+public class Detergent {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double sp, commision=0, dish=0.2, laund=0.1;
+		String type;
+		Scanner scan= new Scanner(System.in);
+		System.out.println("REIGNS SOAP LIMITED\nCOMMISSION COMPUTING SYSTEM");
+		System.out.print("Enter the type of detergent sold (D / L): ");
+		type= scan.next();
+		System.out.print("Enter the Selling Price: ");
+		sp= scan.nextDouble();
+		switch(type) {
+		case "D": commision= sp*dish;
+		break;
+		case "L": commision = sp*laund;
+		break;
+		default: System.out.println("Invalid input");
+		break;
+		}
+		System.out.println("The sales personnel’s commission is: "+(int)commision);
+	}
+
+}

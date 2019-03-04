@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/home/panto1212/eclipse-workspace/Python Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/pratice/com.python.pydev.analysis/v2_indexcache
+helloworld|1550592077436465000|/home/panto1212/eclipse-workspace/Python Workspace/pratice/helloworld.py
+input|1550592181524717000|/home/panto1212/eclipse-workspace/Python Workspace/pratice/input.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=helloworld
+2=input
+3=/home/panto1212/eclipse-workspace/Python Workspace/pratice/helloworld.py
+1=/home/panto1212/eclipse-workspace/Python Workspace/pratice/input.py
+-- END DICTIONARY
+-- START TREE 1
+1
+x|2|x!1^2#1*19@x!3^1#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

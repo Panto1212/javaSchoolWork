@@ -1,0 +1,16 @@
+package variables;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		String firstName = "Patience", lastName;
+		lastName= "Ankunda";
+		System.out.println(firstName+ +lastName);
+		int myAge = 21, phoneNumber;
+		phoneNumber= 0781693730;
+		System.out.println(myAge+phoneNumber);
+		// TODO Auto-generated method stub
+
+	}
+
+}

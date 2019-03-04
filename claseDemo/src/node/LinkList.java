@@ -1,0 +1,28 @@
+package node;
+
+public class LinkList {
+	private Nodes first=null;
+	
+	public void insertFirst(int data) {
+		Nodes newFirst= new Nodes(data);
+		newFirst.next= first;
+		first = newFirst;
+	}
+	
+	public Nodes deleteFirst() {
+		Nodes oldFirst = first;
+		first = first.next;
+		return oldFirst;
+	
+	}
+public void displayList() {
+	Nodes current =first;
+	while (current!=null) {
+		current.displayNodes();
+		current= current.next;
+	}
+}
+public boolean isEmpty() {
+	return(first==null);
+}
+}
